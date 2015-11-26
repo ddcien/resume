@@ -1,14 +1,21 @@
-Richard Lu                   ddcien@163.com                  PH: 186-1186-2869
- 
-Summary:
-lBachelor of Electronics and Information Engineering.
-l9 year experience in analysis, design, development of embedded applications using RISC (arm, x86) processors, C, C++ and embedded development tools.
-lExpert skills in Linux kernel and device driver development.
-lGood understanding of embedded software design and development.
-lExpert working knowledge of C, ASM, and based software development.
-lExcellent problem solving skills with a strong technical background and good interpersonal skills.
-lGood skills in using version control systems(git, svn etc.).
-lQuick learner and team player.
+# Resume
+
+**Name:  Richard Lu**
+**Email: ddcien@163.com**
+**PH:    186-1186-2869**
+
+***
+
+# Summary:
+
+* Bachelor of Electronics and Information Engineering.
+* 9 year experience in analysis, design, development of embedded applications using RISC (arm, x86) processors, C, C++ and embedded development tools.
+* lExpert skills in Linux kernel and device driver development.
+* Good understanding of embedded software design and development.
+* Expert working knowledge of C, ASM, and based software development.
+* Excellent problem solving skills with a strong technical background and good interpersonal skills.
+* Good skills in using version control systems(git, svn etc.).
+* Quick learner and team player.
  
  
 TECHNICAL SKILLS:
