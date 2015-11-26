@@ -33,6 +33,7 @@ PH:    186-1186-2869**
  
 # WORK EXPERIENCE:
 ## EyeSmart
+*September 2010 - Now* :
 **Embedded Department Manager**
 
 * Responsible for the embedded department management.
@@ -42,7 +43,7 @@ PH:    186-1186-2869**
 * Giving training and advice to colleges.
  
 ## Smartec Electronics Equipment (Beijng) Co.,Ltd. 
-*May 2010 - April 2014*	
+*May 2010 - April 2014*	:
 **Senior Software Engineer**
 
 * Responsible for Linux kernel porting on new platforms and also the upper layer application development.
@@ -58,7 +59,7 @@ PH:    186-1186-2869**
 * Give suggestions to hardware department how to arrange the MCU’s peripherals on new board design.
 
 ## TianJin Communication & Broadcasting Group CO.,LTD. 
-*July 2007 - April 2010*
+*July 2007 - April 2010* :
 **Embedded Software Engineer**
 
 * Responsible for uCOS-II BSP Porting on ARM7 platform.
