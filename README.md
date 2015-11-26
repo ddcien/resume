@@ -10,7 +10,7 @@
 
 * Bachelor of Electronics and Information Engineering.
 * 9 year experience in analysis, design, development of embedded applications using RISC (arm, x86) processors, C, C++ and embedded development tools.
-* lExpert skills in Linux kernel and device driver development.
+* Expert skills in Linux kernel and device driver development.
 * Good understanding of embedded software design and development.
 * Expert working knowledge of C, ASM, and based software development.
 * Excellent problem solving skills with a strong technical background and good interpersonal skills.
@@ -18,17 +18,18 @@
 * Quick learner and team player.
  
  
-TECHNICAL SKILLS:
-Programming Languages: C, C++, Python, Go.
-Operating System: Linux.
-RTOS: Embedded Linux, freertos, rtthread.
-RISC/Micro Processors: ARM7, ARM9, ARM11, ARＭ Cortex M/A serial.
-Version Control, tracking: git.
-Tools: vim, gcc, cmake, android-ndk, pkg-config, openocd, keil etc.
-Networking: TCP/IP protocol stack, LAN/WAN, ISO8583, SIP, RTP, SRTP.
+# TECHNICAL SKILLS:
+* Programming Languages: C, C++, Python, Go.
+* Operating System: Linux.
+* RTOS: Embedded Linux, freertos, rtthread.
+* RISC/Micro Processors: ARM7, ARM9, ARM11, ARＭ Cortex M/A serial.
+* Version Control, tracking: git.
+* Tools: vim, gcc, cmake, android-ndk, pkg-config, openocd, keil etc.
+* Networking: TCP/IP protocol stack, LAN/WAN, ISO8583, SIP, RTP, SRTP.
  
-WORK EXPERIENCE:
-EyeSmart
+# WORK EXPERIENCE:
+## *EyeSmart*
+
 Embedded Department Manager
 uResponsible for the embedded department management.
 uSoftware development on Embedded platforms, such as ARM and x86 based Linux and Android operating systems.
