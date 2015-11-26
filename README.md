@@ -6,7 +6,7 @@ Email:  <ddcien@163.com>
 PH:     186-1186-286  
 
 - - -
-## Summary:
+## Summary: 
 * Bachelor of Electronics and Information Engineering.
 * 9 year experience in analysis, design, development of embedded applications using RISC (arm, x86) processors, C, C++ and embedded development tools.
 * Expert skills in Linux kernel and device driver development.
@@ -17,7 +17,7 @@ PH:     186-1186-286
 * Quick learner and team player.
 
 - - -
-## TECHNICAL SKILLS:
+## TECHNICAL SKILLS: 
 * Programming Languages: C, C++, Python, Go.
 * Operating System: Linux.
 * RTOS: Embedded Linux, freertos, rtthread.
