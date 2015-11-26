@@ -37,7 +37,6 @@
 ## *EyeSmart*
 **Embedded Department Manager**
 
-
 * Responsible for the embedded department management.
 * Software development on Embedded platforms, such as ARM and x86 based Linux and Android operating systems.
 * Project management. Arranging workload for members, making development schedule.
@@ -45,8 +44,8 @@
 * Giving training and advice to colleges.
  
 ## Smartec Electronics Equipment (Beijng) Co.,Ltd. 
-**May 2010 - April 2014**
-**Senior Software Engineer**
+	*May 2010 - April 2014*	
+	**Senior Software Engineer**
 
 * Responsible for Linux kernel porting on new platforms and also the upper layer application development.
 * Design and writing device drivers, and also writing the libraries for the upper layer application programming.
