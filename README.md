@@ -2,8 +2,8 @@
 
 
 Name:   Richard Lu       
-Email:  <ddcien@163.com> 
-PH:     186-1186-286
+Email:  <ddcien@163.com>  
+PH:     186-1186-286  
 
 - - -
 # Summary:
