@@ -1,6 +1,6 @@
 # Richard Lu Resume
 
-
+- - -
 Name:   Richard Lu       
 Email:  <ddcien@163.com>  
 PH:     186-1186-286  
@@ -28,7 +28,7 @@ PH:     186-1186-286
 
 - - -
 ## WORK EXPERIENCE:
-### EyeSmart
+### [EyeSmart](www.eyesmart.com.cn) 
 *September 2010 - Now* :
 **Embedded Department Manager**
 
@@ -38,7 +38,7 @@ PH:     186-1186-286
 * uMeeting customers and studying the request from market.
 * Giving training and advice to colleges.
  
-### Smartec Electronics Equipment (Beijng) Co.,Ltd. 
+### [Smartec Electronics Equipment (Beijng) Co.,Ltd.](www.smartec.com.cn) 
 *May 2010 - April 2014*	:
 **Senior Software Engineer**
 
@@ -54,7 +54,7 @@ PH:     186-1186-286
 * Help the hardware department debugging the new designed board and give some bug fixing solutions.
 * Give suggestions to hardware department how to arrange the MCU’s peripherals on new board design.
 
-### TianJin Communication & Broadcasting Group CO.,LTD. 
+### [TianJin Communication & Broadcasting Group CO.,LTD.](www.tcb.com.cn) 
 *July 2007 - April 2010* :
 **Embedded Software Engineer**
 
