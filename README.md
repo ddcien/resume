@@ -2,7 +2,7 @@
 
 **Name:  Richard Lu**
 
-**Email: ddcien@163.com**
+**Email: <ddcien@163.com>**
 
 **PH:    186-1186-2869**
 
@@ -20,7 +20,8 @@
 * Good skills in using version control systems(git, svn etc.).
 * Quick learner and team player.
  
- 
+***
+
 # TECHNICAL SKILLS:
 * Programming Languages: C, C++, Python, Go.
 * Operating System: Linux.
@@ -29,10 +30,12 @@
 * Version Control, tracking: git.
 * Tools: vim, gcc, cmake, android-ndk, pkg-config, openocd, keil etc.
 * Networking: TCP/IP protocol stack, LAN/WAN, ISO8583, SIP, RTP, SRTP.
+
+***
  
 # WORK EXPERIENCE:
-## * EyeSmart
-** Embedded Department Manager
+## *EyeSmart*
+**Embedded Department Manager**
 
 
 * Responsible for the embedded department management.
