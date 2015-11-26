@@ -1,13 +1,11 @@
 # Resume
 
-**Name:  Richard Lu**
 
-**Email: <ddcien@163.com>**
+**Name:  Richard Lu
+Email: <ddcien@163.com>
+PH:    186-1186-2869**
 
-**PH:    186-1186-2869**
-
-
-***
+---
 
 # Summary:
 
@@ -20,7 +18,7 @@
 * Good skills in using version control systems(git, svn etc.).
 * Quick learner and team player.
  
-***
+---
 
 # TECHNICAL SKILLS:
 * Programming Languages: C, C++, Python, Go.
@@ -31,10 +29,10 @@
 * Tools: vim, gcc, cmake, android-ndk, pkg-config, openocd, keil etc.
 * Networking: TCP/IP protocol stack, LAN/WAN, ISO8583, SIP, RTP, SRTP.
 
-***
+---
  
 # WORK EXPERIENCE:
-## *EyeSmart*
+## EyeSmart
 **Embedded Department Manager**
 
 * Responsible for the embedded department management.
@@ -44,8 +42,8 @@
 * Giving training and advice to colleges.
  
 ## Smartec Electronics Equipment (Beijng) Co.,Ltd. 
-	*May 2010 - April 2014*	
-	**Senior Software Engineer**
+*May 2010 - April 2014*	
+**Senior Software Engineer**
 
 * Responsible for Linux kernel porting on new platforms and also the upper layer application development.
 * Design and writing device drivers, and also writing the libraries for the upper layer application programming.
@@ -59,8 +57,10 @@
 * Help the hardware department debugging the new designed board and give some bug fixing solutions.
 * Give suggestions to hardware department how to arrange the MCU’s peripherals on new board design.
 
-## Tianjin Communication and Broadcasting July 2007 - April 2010.
-** Embedded Software Engineer
+## TianJin Communication & Broadcasting Group CO.,LTD. 
+*July 2007 - April 2010*
+**Embedded Software Engineer**
+
 * Responsible for uCOS-II BSP Porting on ARM7 platform.
 * Responsible for writing/porting bootloader on new hardware platform.
 * Responsible for porting Linux kernel on ARM9 platform, and writing device drivers.
