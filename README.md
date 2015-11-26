@@ -42,8 +42,8 @@
 * Giving training and advice to colleges.
  
 ## Smartec Electronics Equipment (Beijng) Co.,Ltd. 
-** May 2010 - April 2014 **
-** Senior Software Engineer **
+**May 2010 - April 2014**
+**Senior Software Engineer**
 
 * Responsible for Linux kernel porting on new platforms and also the upper layer application development.
 * Design and writing device drivers, and also writing the libraries for the upper layer application programming.
