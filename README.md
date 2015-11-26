@@ -28,7 +28,7 @@ PH:     186-1186-286
 
 - - -
 ## WORK EXPERIENCE:
-### [EyeSmart](www.eyesmart.com.cn) 
+### [EyeSmart]<www.eyesmart.com.cn> 
 *September 2010 - Now* :
 **Embedded Department Manager**
 
