@@ -1,8 +1,11 @@
 # Resume
 
 **Name:  Richard Lu**
+
 **Email: ddcien@163.com**
+
 **PH:    186-1186-2869**
+
 
 ***
 
@@ -28,46 +31,49 @@
 * Networking: TCP/IP protocol stack, LAN/WAN, ISO8583, SIP, RTP, SRTP.
  
 # WORK EXPERIENCE:
-## *EyeSmart*
+## * EyeSmart
+** Embedded Department Manager
 
-Embedded Department Manager
-uResponsible for the embedded department management.
-uSoftware development on Embedded platforms, such as ARM and x86 based Linux and Android operating systems.
-uProject management. Arranging workload for members, making development schedule.
-uMeeting customers and studying the request from market.
-uGiving training and advice to colleges.
+
+* Responsible for the embedded department management.
+* Software development on Embedded platforms, such as ARM and x86 based Linux and Android operating systems.
+* Project management. Arranging workload for members, making development schedule.
+* uMeeting customers and studying the request from market.
+* Giving training and advice to colleges.
  
-Smartec Electronics Equipment (Beijng) Co.,Ltd. May 2010 - April 2014
-Senior Software Engineer
-uResponsible for Linux kernel porting on new platforms and also the upper layer application development.
-uDesign and writing device drivers, and also writing the libraries for the upper layer application programming.
-uBuild simple SDK and train the other engineers how to use the SDK to develop the upper layer applications.
-uResponsible for communicating with the customers and analyzing the software requirement.
-uResponsible for training the new colleges how our device and the software working, and how programming new software on the device and how launching it.
-uResponsible for the software development managing and making schedule.
-uResponsible for communicating with the colleges from other department and then make protocols which are easy to use, stable and have much compatibility.
-uBuild up Redmine Project management system for the department and give out basic training.
-uResponsible for source code management and reviewing using git.
-uHelp the hardware department debugging the new designed board and give some bug fixing solutions.
-uGive suggestions to hardware department how to arrange the MCU’s peripherals on new board design.
-Tianjin Communication and Broadcasting July 2007 - April 2010.
-Embedded Software Engineer
-uResponsible for uCOS-II BSP Porting on ARM7 platform.
-uResponsible for writing/porting bootloader on new hardware platform.
-uResponsible for porting Linux kernel on ARM9 platform, and writing device drivers.
-uResponsible for debugging the boards with hardware engineers and providing solutions for fixing the bugs.
-uResponsible for building and maintaining basic root file system for the ARM-Linux platform, including the booting scripts, busybox, module utilities, MTD utilities, GUI Framework libraries and most importantly the package management utilities.
-uResponsible building and maintaining version control server using GIT over ssh.
-uTraining junior Linux programmers how to using the GCC and Makefile to compile the source code for ARM Platform. And how to use GDB to debug the code.
-uResponsible for training the junior Linux programmers regarding how to use GIT to track and maintain their code and how to integrate the source code from the others to their own.
+## Smartec Electronics Equipment (Beijng) Co.,Ltd. May 2010 - April 2014
+** Senior Software Engineer
+
+* Responsible for Linux kernel porting on new platforms and also the upper layer application development.
+* Design and writing device drivers, and also writing the libraries for the upper layer application programming.
+* Build simple SDK and train the other engineers how to use the SDK to develop the upper layer applications.
+* Responsible for communicating with the customers and analyzing the software requirement.
+* Responsible for training the new colleges how our device and the software working, and how programming new software on the device and how launching it.
+* Responsible for the software development managing and making schedule.
+* Responsible for communicating with the colleges from other department and then make protocols which are easy to use, stable and have much compatibility.
+* Build up Redmine Project management system for the department and give out basic training.
+* Responsible for source code management and reviewing using git.
+* Help the hardware department debugging the new designed board and give some bug fixing solutions.
+* Give suggestions to hardware department how to arrange the MCU’s peripherals on new board design.
+
+## Tianjin Communication and Broadcasting July 2007 - April 2010.
+** Embedded Software Engineer
+* Responsible for uCOS-II BSP Porting on ARM7 platform.
+* Responsible for writing/porting bootloader on new hardware platform.
+* Responsible for porting Linux kernel on ARM9 platform, and writing device drivers.
+* Responsible for debugging the boards with hardware engineers and providing solutions for fixing the bugs.
+* Responsible for building and maintaining basic root file system for the ARM-Linux platform, including the booting scripts, busybox, module utilities, MTD utilities, GUI Framework libraries and most importantly the package management utilities.
+* Responsible building and maintaining version control server using GIT over ssh.
+* Training junior Linux programmers how to using the GCC and Makefile to compile the source code for ARM Platform. And how to use GDB to debug the code.
+* Responsible for training the junior Linux programmers regarding how to use GIT to track and maintain their code and how to integrate the source code from the others to their own.
  
-STRENGTHS & ABILITIES:
-uStrong Communication Skills (Oral & Written).
-uExcellent analytical skills with technical background.
-uQuick leaner to the new techniques.
-uEasily adapt in a multinational team, English can be used as working language.
+# STRENGTHS & ABILITIES:
+* Strong Communication Skills (Oral & Written).
+* Excellent analytical skills with technical background.
+* Quick leaner to the new techniques.
+* Easily adapt in a multinational team, English can be used as working language.
  
  
-EDUCATION:
-Bachelor of Electronics and Information Engineering.  Sep.2003 - Jul.2007
-University of Electronic Science and Technology of China(UESTC).
+# EDUCATION:
+* Bachelor of Electronics and Information Engineering.  Sep.2003 - Jul.2007
+* University of Electronic Science and Technology of China(UESTC).
