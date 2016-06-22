@@ -1,9 +1,9 @@
 # Richard Lu Resume
 
 - - -
-Name:   Richard Lu       
+Name:   Richard L(逯奇峰)
 Email:  <ddcien@163.com>  
-PH:     186-1186-286  
+PH:     186-1186-2869
 
 - - -
 ## Summary: 
@@ -11,31 +11,31 @@ PH:     186-1186-286
 * 9 year experience in analysis, design, development of embedded applications using RISC (arm, x86) processors, C, C++ and embedded development tools.
 * Expert skills in Linux kernel and device driver development.
 * Good understanding of embedded software design and development.
-* Expert working knowledge of C, ASM, and based software development.
+* Expert working knowledge of C/C++ language, and based software development.
 * Excellent problem solving skills with a strong technical background and good interpersonal skills.
-* Good skills in using version control systems(git, svn etc.).
+* Good skills in using version control systems(git).
 * Quick learner and team player.
 
 - - -
 ## TECHNICAL SKILLS: 
-* Programming Languages: C, C++, Python, Go.
+* Programming Languages: C, C++, Python.
 * Operating System: Linux.
-* RTOS: Embedded Linux, freertos, rtthread.
+* RTOS: Embedded Linux, freertos, rtthread etc.
 * RISC/Micro Processors: ARM7, ARM9, ARM11, ARM Cortex M and A serial.
 * Version Control, tracking: git.
-* Tools: vim, gcc, cmake, android-ndk, pkg-config, openocd, keil etc.
-* Networking: TCP/IP protocol stack, LAN/WAN, ISO8583, SIP, RTP, SRTP.
+* Tools: vim, gcc, cmake, android-ndk, openocd etc.
+* Networking: TCP/IP protocol stack, LAN/WAN.
 
 - - -
 ## WORK EXPERIENCE:
 ### [EyeSmart](http://www.eyesmart.com.cn) 
-*September 2010 - Now* :
+*September 2014 - June 2016:
 **Embedded Department Manager**
 
 * Responsible for the embedded department management.
 * Software development on Embedded platforms, such as ARM and x86 based Linux and Android operating systems.
 * Project management. Arranging workload for members, making development schedule.
-* uMeeting customers and studying the request from market.
+* Meeting customers and studying the request from market.
 * Giving training and advice to colleges.
  
 ### [Smartec Electronics Equipment (Beijng) Co.,Ltd.](http://www.smartec.com.cn) 
