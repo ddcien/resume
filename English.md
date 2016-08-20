@@ -1,11 +1,11 @@
 # Richard Lu Resume
 
-- - -
+---
 Name:   Richard L(逯奇峰)
 Email:  <ddcien@163.com>  
 PH:     186-1186-2869
 
-- - -
+---
 ## Summary: 
 * Bachelor of Electronics and Information Engineering.
 * 9 year experience in analysis, design, development of embedded applications using RISC (arm, x86) processors, C, C++ and embedded development tools.
@@ -16,7 +16,7 @@ PH:     186-1186-2869
 * Good skills in using version control systems(git).
 * Quick learner and team player.
 
-- - -
+---
 ## TECHNICAL SKILLS: 
 * Programming Languages: C, C++, Python.
 * Operating System: Linux.
@@ -26,7 +26,7 @@ PH:     186-1186-2869
 * Tools: vim, gcc, cmake, android-ndk, openocd etc.
 * Networking: TCP/IP protocol stack, LAN/WAN.
 
-- - -
+---
 ## WORK EXPERIENCE:
 ### [EyeSmart](http://www.eyesmart.com.cn) 
 *September 2014 - June 2016:
@@ -67,14 +67,15 @@ PH:     186-1186-2869
 * Training junior Linux programmers how to using the GCC and Makefile to compile the source code for ARM Platform. And how to use GDB to debug the code.
 * Responsible for training the junior Linux programmers regarding how to use GIT to track and maintain their code and how to integrate the source code from the others to their own.
 
-- - -
+---
 ## STRENGTHS & ABILITIES:
 * Strong Communication Skills (Oral & Written).
 * Excellent analytical skills with technical background.
 * Quick leaner to the new techniques.
 * Easily adapt in a multinational team, English can be used as working language.
  
-- - -
+
+---
 ## EDUCATION:
 * Bachelor of Electronics and Information Engineering.  Sep.2003 - Jul.2007
 * University of Electronic Science and Technology of China(UESTC).
