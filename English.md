@@ -2,7 +2,7 @@
 
 ---
 Name:   Richard L(逯奇峰)
-Email:  <ddcien@163.com>  
+Email:  <ddcien@163.com>
 PH:     186-1186-2869
 
 ---
